@@ -38,4 +38,4 @@ Client Test: ‘h2 wget h1’
 The code can be slightly modified to make it 'Stateful' Load Balancer using Host's unique parameters (Host IP, Host MAC, etc).
 
 I encourage you to contribute code, bug reports/fixes, documentation, and anything else that can improve the system!
-For any queries, please email me at lotiapratik@gmail.com
+For any queries, please email me at pratiklotia@yahoo.in
